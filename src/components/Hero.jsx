@@ -14,7 +14,7 @@ const Hero = () => {
                         </h1>
                         <p className="text-zinc-600 text-lg mb-8 max-w-xl mx-auto lg:mx-0">
                             I build modern, scalable, and high-performance web applications
-                            using React, Tailwind, and Node.js technologies.
+                            using React, Tailwind, and Node.js technologieMMMMMMMMMMMMMMMMMMms.
                         </p>
                         <div className="flex justify-center lg:justify-start gap-6">
                             <a
